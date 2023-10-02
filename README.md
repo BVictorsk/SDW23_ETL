@@ -9,7 +9,7 @@
 </div>
 
 ## Visão Geral
-Este projeto tem como objetivo criar um Pipeline de ETL (Extração, Transformação e Carregamento) utilizando o Google Colab para extrair dados de um arquivo CSV relacionado ao Acompanhamento de Gastos Pessoais. O processo de ETL é crucial para coletar, limpar e preparar os dados para análises posteriores, tornando-os úteis e prontos para serem explorados.
+Este projeto tem como objetivo criar um Pipeline de ETL (Extração, Transformação e Carregamento) utilizando o ambiente do Google Colab. O objetivo principal é extrair dados de um arquivo CSV relacionado ao Acompanhamento de Gastos Pessoais e prepará-los para análises posteriores. O projeto foi desenvolvido como parte do desafio do bootcamp de análise de dados do Santander.
 
 ## Estrutura do Projeto
 O projeto está organizado da seguinte forma:
