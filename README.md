@@ -34,6 +34,3 @@ Pandas: Para manipulação e transformação dos dados.
 
 # Autor
 Brian Victor Saka
-
-Licença
-Este projeto é distribuído sob a licença [inserir a licença aqui, por exemplo, MIT].
