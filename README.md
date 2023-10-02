@@ -34,10 +34,37 @@ Siga as instruções no notebook para executar cada etapa do processo de ETL. Is
 Os resultados do processo serão armazenados na pasta output.
 
 ### Dependências
-Este projeto utiliza as seguintes bibliotecas Python:
-
-Pandas: Para manipulação e transformação dos dados.
+> Pandas: Para manipulação e transformação dos dados.
 
 
 # Autor
 Brian Victor Saka
+
+## Clone
+
+### Starting
+
+```
+git clone https://github.com/BVictorsk/SDW23_ETL.git
+npm install
+```
+
+
+### Contribute 🚀
+
+If you want to contribute, clone this repo, create your work branch and get your hands dirty!
+
+```bash
+git clone https://github.com/BVictorsk/SDW23_ETL.git
+git checkout -b feature/NAME
+```
+
+ At the end, open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+
+[How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
+
+[Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+<h2 id="license">License 📃 </h2>
+
+This project is under MIT license
