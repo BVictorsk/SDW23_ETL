@@ -3,9 +3,16 @@
   <a href="https://github.com/BVictorsk/SDW23_ETL">
     <img src="images/sdw2023-logo.png" alt="Logo" width="200" height="182">
   </a>
-  <h3 align="center">etl-sdw2023</h3>
+  <h3 align="center">Santander Bootcamp 2023 - Ciência de Dados com Python</h3>
   <p align="center">
-    An ETL pipeline for the Santander Dev Week 2023 database.
+    An ETL pipeline for the Santander Bootcamp 2023 - Daata science with Python.
+</div>
+
+<br>
+
+<div align="center">
+      <img align="center" alt="markDown" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+      <img align="center" alt="markDown" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 ## Visão Geral
