@@ -5,7 +5,8 @@
   </a>
   <h3 align="center">Santander Bootcamp 2023 - Ciência de Dados com Python</h3>
   <p align="center">
-    An ETL pipeline for the Santander Bootcamp 2023 - Daata science with Python.
+    An ETL pipeline for the Santander Bootcamp 2023 - Data science with Python.
+  </p>
 </div>
 
 <br>
